@@ -1,0 +1,25 @@
+{
+  "organization": {
+    "name": "Southern Highlands Participatory Organisation (SHIPO)",
+    "short_mission": "Sustained improvements in livelihoods through community-led WASH, education, and development projects."
+  },
+  "quick_links": [
+    { "label": "Home", "url": "/" },
+    { "label": "About Us", "url": "/about" },
+    { "label": "Programs", "url": "/programs" },
+    { "label": "Get Involved", "url": "/get-involved" },
+    { "label": "Contact", "url": "/contact" }
+  ],
+  "contact": {
+    "email": "info@shipo.or.tz",
+    "phone": "+255262784014",
+    "address": "216 Songea Road, Kambarage St, P.O. Box 227, Njombe, Tanzania"
+  },
+  "social_links": [
+    { "label": "Facebook", "url": "https://facebook.com/SHIPOTanzania" },
+    { "label": "Twitter", "url": "https://twitter.com/SHIPOTanzania" }
+  ],
+  "copyright": "© 2025 Southern Highlands Participatory Organisation. All rights reserved.",
+  "company_number": "1629",
+  "registered_in": "Tanzania"
+}
