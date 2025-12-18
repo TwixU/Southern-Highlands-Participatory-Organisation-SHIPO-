@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Routes, Route, ScrollRestoration } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Layout from './components/layout/Layout';
 import Home from './pages/Home';
 import About from './pages/About';
@@ -8,11 +8,12 @@ import Contact from './pages/Contact';
 import PrivacyPolicy from './pages/PrivacyPolicy';
 import TermsOfService from './pages/TermsOfService';
 import NotFound from './pages/NotFound';
+import ScrollToTop from './components/ui/ScrollToTop';
 
 function App() {
   return (
     <Router>
-      <ScrollRestoration />
+      <ScrollToTop />
       <Layout>
         <Routes>
           <Route path="/" element={<Home />} />
